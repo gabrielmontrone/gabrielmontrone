@@ -2,8 +2,6 @@
 <h1 align="center">Hi, I'm Gabriel Montrone</h1>
 <h3 align="center">A Computer Science student at Universidade Paulista</h3>
 
-<img align="right" alt="coding" width="400" scr="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
-
 - Play my first mobile game: [Trash Hero: Contra o Lixo do Mundo](https://trashhero.carrd.co)
 
 <h3 align="left">Connect with me:</h3>
