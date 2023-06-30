@@ -1,3 +1,4 @@
+![logo](https://github.com/gabrielmontrone/gabrielmontrone/blob/main/Banner%20GitHub.png)
 <h1 align="center">Hi, I'm Gabriel Montrone</h1>
 <h3 align="center">A Computer Science student at Universidade Paulista</h3>
 
